@@ -5,4 +5,4 @@ The publicly available code was written by Paul A. Kempler with feedback from Jo
 
 These notebooks can be readily modified to model the levelized cost of hydrogen produced by a projected electrolyzer stack performance and cost or similarly the levelized cost of electricity for a projected fuel cell stack performance and cost. They are more specifically designed to make comparisons between two modeling parameters (e.g. the price of electricity and the operating voltage of a single cell) to deterimine the relative influence on the price of hydrogen produced by an electrolysis plant based on the technology.
 
-Please contact pkempler@uoregon.edu with questions about model assumptions or implementing the code for your own purposes.
+Please contact pkempler[at]uoregon[dot]edu with questions about model assumptions or implementing the code for your own purposes.
